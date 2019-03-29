@@ -1,0 +1,41 @@
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.exe.config
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\bin\Debug\FakeData.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\bin\Debug\FakeData.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.Form1.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.pdb
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.exe.config
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.exe
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.pdb
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.exe
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.pdb
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\bin\Debug\FakeData.dll
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\bin\Debug\FakeData.pdb
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.Properties.Resources.resources
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.csproj.GenerateResource.Cache
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.FormVeriyiJSONYazma_Serialize.resources
+C:\Users\AHMET\Desktop\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.FormJSONVeriyiOkuma_Deserialize.resources
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.exe.config
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.exe
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.pdb
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.exe
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\bin\Debug\JsonFakeData.pdb
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\bin\Debug\FakeData.dll
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\bin\Debug\FakeData.pdb
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.FormJSONVeriyiOkuma_Deserialize.resources
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.FormVeriyiJSONYazma_Serialize.resources
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.Properties.Resources.resources
+C:\Users\AHMET\Desktop\JSON SUNUMU\JsonFakeData\JsonFakeData\obj\Debug\JsonFakeData.csproj.GenerateResource.Cache
